@@ -1,0 +1,3 @@
+# Ignore Docker and Jenkins related files
+Dockerfile
+index.html
